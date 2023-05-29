@@ -30,7 +30,7 @@
         "chart.js": "^2.9.3",
         "datatables.net": "^1.10.20",
         "datatables.net-bs": "^1.10.20",
-        "datatables.net-responsive-bs": "^2.2.1",
+        "datatables.net-responsive-bs": "^2.4.1",
         "fastclick": "^1.0.6",
         "font-awesome": "^4.7.0",
         "icheck": "^1.0.2",
